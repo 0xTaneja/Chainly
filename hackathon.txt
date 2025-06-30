@@ -1,0 +1,225 @@
+Building the Future, Onchain
+
+Build the future of onchain finance and AI alongside thousands of developers, creators, artists, and mentors with the goal of enabling new use cases that combine DeFi, Tokenized Assets, and AI.
+
+Running from May 30 - June 29
+Free registration
+Completely virtual and global
+$200K+ prizes (and growing) across trending industry verticals
+Gain hands-on experience with the backbone of blockchain
+Explore innovative use cases in AI, Tokenization, RWAs, and more
+Learn with Chainlink’s developer resources and connect with the community
+This hackathon fast-tracks developers’ journey into onchain finance with focused workshops, clear prize tracks, and opportunities for networking.
+
+--
+
+Important Reminders:
+Opening Ceremony: May 30, 12 PM Eastern Time
+Project submission deadline: June 29, 11:59 PM Eastern Time
+Closing Ceremony: July 17, 10AM Eastern Time
+Hackathon workshop schedule can be downloaded here
+As blockchain technology evolves, the need for skilled developers grows. This hackathon supports everyone—from beginners to experienced pros—in building the future of decentralized finance. What you gain depends on what you put in. Chromion provides the resources and time to challenge yourself, connect with others, and make an impact in the blockchain space. Don’t miss your chance to learn, innovate, and help shape onchain finance.
+
+--
+
+What is Chainlink?
+Chainlink is the standard for onchain finance, verifiable data, and cross-chain interoperability. Chainlink is unifying liquidity across global markets and has enabled over $20 trillion in transaction value across the blockchain economy. Major financial market infrastructures and institutions, such as Swift, Fidelity International, and ANZ Bank, as well as top DeFi protocols including Aave, GMX, and Lido, use Chainlink to power next-generation applications for banking, asset management, and other major sectors. Learn more by visiting chain.link.
+
+--
+
+Register today and gear up with hackathon resources
+To help maximize the success of projects, hackathon participants will be provided with direct access to experienced mentors and technical support, extensive educational materials for learning about off-chain services, live workshops showcasing how to use Chainlink, and much more. We also encourage you to join the hackathon channel in the official Chainlink Discord to meet other hackers and to explore our collection of developer resources below:
+
+Chainlink Docs
+Hardhat Starter Kit
+Foundry Starter Kit
+CCIP Starter Kit Hardhat
+CCIP Starter Kit Foundry
+Functions Hardhat Starter Kit
+Bootcamps
+Chainlink Developer Hub
+CCIP Local Simulator
+Chainlink Faucet
+Chainlink Discord Channel
+--
+
+Requirements
+Each project must use Chainlink in some form to make a state change on a blockchain, otherwise it will not be eligible for the Chainlink core prizes. This means that a front end simply reading from Chainlink data feeds doesn't count. Using one of Chainlink Data Feeds, Chainlink Data Streams, Chainlink VRF, Chainlink Proof of Reserves, Chainlink Automation, Chainlink Functions or Chainlink CCIP inside your smart contracts is required.
+
+For sponsor prizes, you do not have to use Chainlink - but to make your project eligible for both sponsor prizes as well as the main Chainlink ones, it's recommended that you do!
+
+Note that past hackathon projects will not be accepted as valid submissions. The only exception to this rule is if you and your team have built an existing project and are updating it with new components. These can be added upon and submitted in a valid manner.
+
+3-5 minute, publicly viewable video
+
+Publicly accessible source code (eg Github public repo)
+
+README: link to all files that use Chainlink
+
+Project Description That Also Covers Stack/Architecture
+
+Optional: Link to “live” deployed demo
+
+
+Chromion: A Chainlink Hackathon
+$100,000
+
+Tracks
+
+
+$50,000: Onchain Finance
+
+For projects bringing new ideas to DeFi—whether by extending existing protocols like Aave or building entirely new ones powered by Chainlink. In addition, projects that focus on the tokenization of RWAs, bringing them onchain to enable a better way to do finance.
+
+DeFi Example Ideas:
+
+New derivatives or perps protocol that use Data Streams, Automation, & CCIP
+Cross-chain lending and borrowing protocol
+Multi-chain DEX
+AI-powered onchain yield optimizer
+Liquid staking protocol
+Tokenization Example Ideas:
+
+Generating tokenized carbon credits based on an offchain system of record, minting - them across chains
+Tokenizing real estate based on offchain APIs
+Tokenizing game assets enabling them to be traded & leveraged in DeFi protocols
+Requirements: Each project must use Chainlink in some form to make a state change on a blockchain, otherwise it will not be eligible for the Chainlink core prizes. This means that a front end simply reading from Chainlink data feeds doesn't count. Using one of Chainlink Data Feeds, Chainlink Data Streams, Chainlink VRF, Chainlink Proof of Reserves, Chainlink Automation, Chainlink Functions or Chainlink CCIP inside your smart contracts is required.
+
+Note that past onchain hackathon projects will not be accepted as valid submissions. The only exception to this rule is if you and your team have built an existing project and are updating it with new components. These can be added upon and submitted in a valid manner.
+
+While all project submissions are evaluated holistically, there will be bonus points given for multiple Chainlink services used in a meaningful way within a project. For example, two additional points are awarded for using two services, while three additional points are awarded for using three different services—and so on.
+
+$16,500: Best DeFi projects -1st Place
+
+1 PRIZE
+
+$8,500: Best DeFi projects - 2nd Place
+
+1 PRIZE
+
+$16,500: Best tokenization/RWA projects - 1st Place
+
+1 PRIZE
+
+$8,500: Best Tokenization/RWA project - 2nd Place
+
+1 PRIZE
+
+$35,000 (Open): Chainlink Grand Prize
+
+SmartCon tickets and the opportunity to pitch your project on stage with travels covered.
+Prize is in LINK
+
+$15,000: Cross-Chain Solutions
+
+For the best cross-chain financial projects. This track purely focuses on implementations that make sense in a multi-chain world and use CCIP to enable seamless interoperability
+
+Use Cases:
+
+Cross-chain DeFi app with liquidity across multiple chains
+Cross-chain game where players on chain A can play players on chain B
+Cross chain liquid staking protocol
+Requirements: Each project must use Chainlink in some form to make a state change on a blockchain, otherwise it will not be eligible for the Chainlink core prizes. This means that a front end simply reading from Chainlink data feeds doesn't count. Using one of Chainlink Data Feeds, Chainlink Data Streams, Chainlink VRF, Chainlink Proof of Reserves, Chainlink Automation, Chainlink Functions or Chainlink CCIP inside your smart contracts is required.
+
+Note that past onchain hackathon projects will not be accepted as valid submissions. The only exception to this rule is if you and your team have built an existing project without any onchain components. These can be added upon and submitted in a valid manner.
+
+While all project submissions are evaluated holistically, there will be bonus points given for multiple Chainlink services used in a meaningful way within a project. For example, two additional points are awarded for using two services, while three additional points are awarded for using three different services—and so on.
+
+$10,000: Best Cross-Chain Project - 1st Place
+
+1 PRIZE
+
+$5,000: Best Cross-Chain Project - 2nd Place
+
+1 PRIZE
+
+
+$16,500: DeFi & Web3 Agents
+
+DeFi & Web3 Agent example ideas
+
+Automate actions based on oracles, MEV-aware optimization, liquidation alerts, or yield strategies.
+Smart key management, delegated signing, and risk-managed automated transactions.
+Use AI agents to aggregate Web2 data, simulate crowd consensus, and place predictive positions on Polymarket or similar platforms. - Swarms of agents that deliberate proposals, summarize trade-offs, and build decentralized consensus.
+$10,500: 1st Place
+
+1 PRIZE
+
+$6,000: 2nd Place
+
+$16,500: Productivity & operations
+
+Productivity & operations example ideas
+
+Specialized LLM agents that autonomously handle daily tasks across communication, planning, and outreach
+In-product agents that test UX, run UAT flows, or act on user-submitted intents to perform real tasks.
+Build frameworks to benchmark performance and utility of agents, across tasks or domains.
+$10,500: 1st Place
+
+1 PRIZE
+
+$6,000: 2nd Place
+
+$16,500: Multi-agent & orchestration
+
+Multi-agent & orchestration example ideas
+
+Real-time LLM-powered arbitrage that monitor odds across multiple sportsbooks and execute value bets.
+Analyze Web2 and Web3 data streams to find market inefficiencies and execute automated trades or alerts.
+Create agents that can interpret user goals and coordinate multiple services or agents to achieve them
+$10,500: 1st Place
+
+1 PRIZE
+
+$6,000: 2nd Place
+
+$10,000: Avalanche Track
+
+Prize pool distribution will be decided after projects submission and judging
+
+Participants in this track have free-range to decide how they want to build a DeFi, NFTs, gaming, infra/tooling, or any other application. To be accepted for this track Hackers must deploy on Avalanche’s Testnet, either build and deploy a dApp on Avalanche C-Chain (the Avalanche Primary Network), or they can go an extra step and deploy an Avalanche L1 for hosting their dApp in their own Custom Chain. If you have any questions about development on Avalanche, you can reference our developer documentation or visit our Telegram.
+
+Selection Criteria
+The only criteria for a chance to win our bounties is that developers build on Avalanche.
+
+Judging Criteria:
+
+Value Proposition
+Product Market Fit and Feasibility
+Technical Complexity
+Innovation
+Bounties
+🏆 Prize Pool - $10,000
+You can pick between these different tracks for your submission, the goal was to keep the bounty open-ended, feel free to ask us if you have any ideas and you don’t think they fall under any of these tracks. You’ll get bonus points for completing the Avalanche L1 track!
+If the submission is exceptionally impressive, and the team behind its development is interested in pursuing its development further, there is potential for support and consideration for the Codebase Incubator or investment in the future from the Avalanche Blizzard Fund.
+
+Single EVM-Chain Track
+For this track, the only requirement is to deploy a smart-contract based application on C-chain on the Fuji testnet or launching and deploying on your own L1. You’re free to be creative and work across any vertical (DeFi, NFTs, gaming, infra/tooling etc.)
+A)Deploy on C-Chain of the Fuji Testnet
+
+Create a dApp using solidity
+
+Fuji C-chain RPCs https://chainlist.org/chain/43113
+B) Deploy on your own Avalanche L1
+
+Use the L1 Toolbox to deploy and customize your own chain
+
+Customize by adding existing precompiles: Transaction Allowlist, Custom logic for native minting, custom fee management, etc.
+
+Extra: Integrate the Core wallet in the frontend
+
+Resources:
+
+Faucet use code “avalanche-academy”
+React Template
+Builder Kit
+Cross-Chain dApp
+The goal here is to deploy a dApp that sends data across multiple Avalanche L1s, there are 3 chains C-chain, Dispatch and Echo on Fuji Testnet where you can create chains with a relayer ready to send messages freely across them. If you’re planning to create your own L1 with custom logic, mock the functionality across these to make it easier during the hackathon.
+
+Send Cross chain messages: Interchain Messaging Course
+Send Assets across chains: Interchain Token Transfer Course
+Integrate Chainlink VRF on your own L1: Academy Course
+Dispatch chain info
+Echo Chain Info
+Avalanche Toolbox
+$10,000: Avalanche Track
